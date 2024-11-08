@@ -1,4 +1,4 @@
-# Project 3: Views and Modifiers in SwiftUI
+# ViewsAndModifiers: Understanding Views and Modifiers in SwiftUI
 
 ## Overview
 In this project, we will dive deep into two fundamental components of SwiftUI: views and modifiers. By understanding how these elements work, we can create more customized and efficient applications. This project aims to demystify the "magic" of SwiftUI by exploring the details behind its functionality.
